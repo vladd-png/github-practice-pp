@@ -1,0 +1,34 @@
+1. Gather Wood
+  1.1 Find nearby Wood
+    1.1.1 walk around
+    1.1.2 Grab what you can carry
+    1.1.3 Pick off moss and wet bits
+  1.2 Dry out Wood
+    1.2.1 Lay out in sun
+    1.2.2 Smoke Wood
+    1.2.3 Hang Dry
+  1.3 Chop into usable size
+    1.3.1 Use axe to Chop
+    1.3.2 Chop bigger pieces several times in half
+    1.3.3 Chop smaller pieces fewer times
+    1.3.4 Stop when all wood is similar length
+2. Gather Lighting Supplies
+  2.1 Gather matches
+    2.1.1 Choose dry match
+    2.1.2 Choose whole match, no broken pieces
+    2.1.3 light match
+      2.1.3.1 place red tip on sand strip
+      2.1.3.2 pull fast along strip
+  2.2 Gather Lighter Fluid
+    2.2.1 Be careful not to spill
+    2.2.2 Wear gloves
+    2.2.4 light Kindling
+    2.2.3 Douse kindling in lighter Fluid
+  2.3 Gather Kindling
+    2.3.1 Dry Kindling
+      2.3.1.1 Newspaper
+      2.3.1.2 Straw
+3. Pick a Location
+  3.1 Clear location of debris
+  3.2 Flat surface
+  3.3 Encircle with rocks for safety
